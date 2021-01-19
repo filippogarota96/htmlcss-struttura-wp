@@ -56,8 +56,8 @@ header {
   height: 380px;
   float: left;
   margin: 0 16px;
-
 }
+
 .col-3 {
   width: 20%;
   height: 380px;
@@ -65,3 +65,14 @@ header {
 }
 
 /* /Sezioni */
+
+/* footer */
+
+footer {
+  width: 100%;
+  height: 100px;
+  margin: 10px 0;
+  background-color: #8801fe;
+}
+
+/* /footer */
